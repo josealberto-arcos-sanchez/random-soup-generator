@@ -1,0 +1,23 @@
+ingrediente, probabilidad, tipo
+ajo, 70, verdura
+batata, 0, verdura
+brócoli, 30, verdura
+calabacín, 20, verdura
+calabaza, 15, verdura
+cebolla, 70, verdura
+coliflor, 10, verdura
+espinacas, 30, verdura
+zanahoria, 55, verdura
+arroz integral, 30, cereal
+fideos integrales, 30, cereal
+garbanzos, 10, cereal
+lentejas, 10, cereal
+quinoa, 20, cereal
+cerdo, 20, proteína
+chorizo, 0, proteína
+gambas, 10, proteína
+huevo, 10, proteína
+merluza, 25, proteína
+pollo, 25, proteína
+tofu, 5, proteína
+vaca, 5, proteína
